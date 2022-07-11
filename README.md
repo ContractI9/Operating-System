@@ -1,2 +1,3 @@
-# Opserating-System
-Simulation of a fully finctional operation system by implementing (Scheduling, memory managment , System Calls , etc..)
+# Operating-System
+Simulation of a fully finctional operation system by implementing (Schedualing, memory managment , System Calls , etc..)
+
